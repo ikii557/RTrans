@@ -16,7 +16,7 @@ Route::get('/index', function () {
     return view('pages.index');
 });
 Route::get('/detail', function () {
-    return view('pages.index');
+    return view('pages.detail.index_detail');
 });
 Route::get('/summaryday', function () {
     return view('pages.index');
@@ -28,7 +28,7 @@ Route::get('/summaryyear', function () {
     return view('pages.index');
 });
 Route::get('/resto', function () {
-    return view('pages.index');
+    return view('pages.resto.index_resto');
 });
 Route::get('/hotel', function () {
     return view('pages.hotel.index_hotel');

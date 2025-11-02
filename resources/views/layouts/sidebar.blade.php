@@ -19,7 +19,7 @@
                             <span class="nav-label">Summary</span><i class="fa fa-angle-left arrow"></i></a>
                         <ul class="nav-2-level collapse">
                             <li>
-                                <a href="buttons.html">Detail</a>
+                                <a href="detail">Detail</a>
                             </li>
                             <li>
                                 <a href="colors.html">Summary DAY </a>
@@ -52,7 +52,7 @@
                             <span class="nav-label">RESTO</span><i class="fa fa-angle-left arrow"></i></a>
                         <ul class="nav-2-level collapse">
                             <li>
-                                <a href="form_basic.html">ALL RESTO</a>
+                                <a href="resto">ALL RESTO</a>
                             </li>
                             <li>
                                 <a href="form_advanced.html">Advanced Plugins</a>

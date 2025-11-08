@@ -5,7 +5,7 @@
                     <div class="col-md-6">
                         <div class="ibox">
                             <div class="ibox-head">
-                                <div class="ibox-title">Basic form</div>
+                                <div class="ibox-title">Tambah Restoran Baru</div>
                                 <div class="ibox-tools">
                                     <a class="ibox-collapse"><i class="fa fa-minus"></i></a>
                                     <a class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-ellipsis-v"></i></a>
@@ -19,27 +19,31 @@
                                 <form>
                                     <div class="row">
                                         <div class="col-sm-6 form-group">
-                                            <label>First Name</label>
+                                            <label>Pilih Daerah</label>
                                             <input class="form-control" type="text" placeholder="First Name">
                                         </div>
                                         <div class="col-sm-6 form-group">
-                                            <label>Last Name</label>
+                                            <label>Kode Daerah</label>
                                             <input class="form-control" type="text" placeholder="First Name">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label>Email</label>
+                                        <label>Nama Restoran</label>
                                         <input class="form-control" type="text" placeholder="Email address">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Username</label>
+                                        <input class="form-control" type="username" placeholder="username">
                                     </div>
                                     <div class="form-group">
                                         <label>Password</label>
                                         <input class="form-control" type="password" placeholder="Password">
                                     </div>
-                                    <div class="form-group">
+                                    {{-- <div class="form-group">
                                         <label class="ui-checkbox">
                                             <input type="checkbox">
                                             <span class="input-span"></span>Remamber me</label>
-                                    </div>
+                                    </div> --}}
                                     <div class="form-group">
                                         <button class="btn btn-default" type="submit">Submit</button>
                                     </div>

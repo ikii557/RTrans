@@ -22,7 +22,7 @@
                                 <a href="detail">Detail</a>
                             </li>
                             <li>
-                                <a href="colors.html">Summary DAY </a>
+                                <a href="laporan_harian">Summary DAY </a>
                             </li>
                             <li>
                                 <a href="typography.html">Summary Month</a>
@@ -54,18 +54,18 @@
                             <li>
                                 <a href="resto">ALL RESTO</a>
                             </li>
-                            <li>
+                            {{-- <li>
                                 <a href="form_advanced.html">Advanced Plugins</a>
-                            </li>
+                            </li> --}}
                             <li>
-                                <a href="form_masks.html">Form input masks</a>
+                                <a href="form_masks.html">Incom Resto</a>
                             </li>
-                            <li>
+                            {{-- <li>
                                 <a href="form_validation.html">Form Validation</a>
                             </li>
                             <li>
                                 <a href="text_editors.html">Text Editors</a>
-                            </li>
+                            </li> --}}
                         </ul>
                     </li>
                     <li>

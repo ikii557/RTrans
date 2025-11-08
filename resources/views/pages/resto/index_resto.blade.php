@@ -4,7 +4,8 @@
 <div class="ibox">
                     <div class="ibox-head">
                         <div class="ibox-title">Daftar Resto </div>
-                        <button class="btn btn-default btn-xs" data-toggle="tooltip" data-original-title="add"><i class="bi bi-calendar2-plus-fill">Tambah Resto</i></button>
+                        
+                        <a href="addrestoran" class="btn btn-default btn-xs" data-toggle="tooltip" data-original-title="add"><i class="bi bi-calendar2-plus-fill">Tambah Resto</i></a>
                     </div>
                     <div class="ibox-body">
                         <div class="table-responsive">

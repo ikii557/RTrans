@@ -58,5 +58,10 @@ Route::get('/updatehotel', function () {
     return view('pages.hotel.update_hotel');
 });
 Route::get('/hotel', function () {
-    return view('pages.hotel.dddd');
+    return view('pages.hotel.index_hotel');
+});
+
+
+Route::get('/laporan_harian', function () {
+    return view('pages.laporan.laporan_harian.laporan_harian');
 });
